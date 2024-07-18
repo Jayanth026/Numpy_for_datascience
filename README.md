@@ -33,8 +33,14 @@
     20.diag
     21.argmax
     22.argmin
-    23.axis=1
+    23.axis= 1
     24.axis=0
+    25.transpose
+    26.ravel
+    27.concatination
+    28.vstack
+    29.hstack
+
     
 
 
