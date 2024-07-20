@@ -1,5 +1,5 @@
 
-# Numpy for Datascience
+# Numpy
 -> Numpy - Numerical python
 
 -> An array allows us to store a collection of multiple values in a single data structure.
@@ -40,26 +40,40 @@
     27.concatination
     28.vstack
     29.hstack
+# Pandas 
+-> Pandas is the most popular software library for data manipulation and data analysis for python.
 
-    
-
-
+## Most used Pandas inbuild functions for datascience:
+    1.Series
+    2.DataFrame
+    3.loc and iloc
+    4.axis=0
+    5.axis=1
+    6.rename
+    7.drop
+    8.read_csv
+    9.to_csv
+    10.unique
+    11.value_counts
+    12.head
+    13.tail
+    14.sample
+    15.columns
+    16.info
+    17.describe
+    18.isnull()
+    18.isnull().sum()
+    19.dropna()
+    20.groupby
+    21.fillna()
+    22.shape
 ## 🛠 Skills
-    1.vectors
-    2.python
-    3.linear algebra
-    4.statistics
-    5.calculations
-
-
-
-
+    1.Basic python syntax 
+    2.Statistics
+    3.Calculations
+    4.Mathematics
 ## Support
-
 For support, email jayanthchatrathi26@gmail.com 
-
-
-
 ## Acknowledgements
-
  - [Numpy Documentation](https://numpy.org/doc/)
+ - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
